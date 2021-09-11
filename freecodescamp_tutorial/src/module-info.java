@@ -1,0 +1,2 @@
+module freecodescamp_tutorial {
+}
